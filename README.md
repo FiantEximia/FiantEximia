@@ -1,5 +1,5 @@
 <H1><strong> OLÁ! SEJA BEM-VINDO!!! <strong></H1> 
-<P>- Essa página é para testes</P>
+<P>- Esta página é para testes</P>
 <P>- Sou Professor do Estado do Paraná 
 <P>- E estou empenhado em concluir os Alura</P>
 <P><STRONG>Obrigado pela visita ;)</STRONG></P>
