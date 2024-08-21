@@ -3,6 +3,6 @@
 <P>- Sou Professor do Estado do Paraná 
 <P>- E estou empenhado em concluir os Alura</P>
 <P><STRONG>Obrigado pela visita ;)</STRONG></P>
-<img src="(https://media.tenor.com/w2Dao-zQcRgAAAAM/gabigol-sil%C3%AAncio.gif)">
+<img src="https://media.tenor.com/w2Dao-zQcRgAAAAM/gabigol-sil%C3%AAncio.gif">
 
 https://initiate.alphacoders.com/download/giffiles/1936/gif
